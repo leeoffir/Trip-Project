@@ -1,7 +1,7 @@
 # Trip-Project
 Trip Project for Software Engineering
 
-Group Members: /n
+Group Members: 
 Chase Scott
 Lee Offir
 Austin Parrish
