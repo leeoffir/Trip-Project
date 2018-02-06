@@ -6,18 +6,19 @@ Chase Scott,
 Lee Offir,
 Austin Parrish,
 Henry Heinze,
-Jake Woratzek,
+Jacob Woratcezk,
 Youngbin Ha
 
 This is to plan a trip to Hawaii for a Honeymoon for a couple
 March 24 - March 31 , 7 day trip
 
-900 = car
+(900 = car
 2000 =room
 3000 = flight
 300 = food
 spending money = $2000
-rest of the trip about $1,800
+rest of the trip about $1,800)
+
 budget $10k
 
 other ideas:
@@ -33,4 +34,3 @@ https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from%3AKansas%20City%
 
 https://bookings.alamoanahotelhonolulu.com/my-bookings/UnbrandedResorts/Booking.aspx
 
-https://turo.com/rentals/cars/hi/honolulu/bmw-3-series/214280?s=Lv0AMGRQ
