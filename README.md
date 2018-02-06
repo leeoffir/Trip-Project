@@ -2,7 +2,7 @@
 Trip Project for Software Engineering
 
 ## Group Members: 
-Chase Scott (Product Owner/Groom), </br>
+Chase Scott (Housing/Food), </br>
 Lee Offir (Budget/Schedule), </br>
 Youngbin Ha (Budget/Schedule), </br>
 Austin Parrish (Scrum Master), </br>
