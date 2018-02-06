@@ -2,11 +2,11 @@
 Trip Project for Software Engineering
 
 Group Members: 
-Chase Scott
-Lee Offir
-Austin Parrish
-Henry Heinze
-Jake Woratzek
+Chase Scott,
+Lee Offir,
+Austin Parrish,
+Henry Heinze,
+Jake Woratzek,
 Youngbin Ha
 
 This is to plan a trip to Hawaii for a Honeymoon for a couple
