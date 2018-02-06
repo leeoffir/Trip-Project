@@ -34,3 +34,4 @@ https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from%3AKansas%20City%
 
 https://bookings.alamoanahotelhonolulu.com/my-bookings/UnbrandedResorts/Booking.aspx
 
+https://turo.com/rentals/cars/hi/honolulu/bmw-3-series/214280?s=Lv0AMGRQ
