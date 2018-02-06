@@ -7,7 +7,7 @@ Lee Offir (Schedule), </br>
 Youngbin Ha (Budget), </br>
 Austin Parrish (Scrum Master), </br>
 Henry Heinze (Transportation), </br>
-Jacob Woratcezk (Aquatic Excursions) </br>
+Jacob Woratzeck (Aquatic Excursions) </br>
 
 
 ## Location: 
