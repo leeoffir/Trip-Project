@@ -9,11 +9,13 @@ Austin Parrish (Scrum Master), </br>
 Henry Heinze (Transportation), </br>
 Jacob Woratzeck (Aquatic Excursions) </br>
 
+## Who Is Going
+Chase and a spouse
 
 ## Location: 
 This is to plan a trip to Hawaii </br>
 ## Purpose: 
-Honeymoon for a couple (chase and spouse)</br>
+Plan a honeymoon for a couple </br>
 ## Length: 
 March 24 - March 31 , 7 day trip </br>
 
