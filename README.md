@@ -13,7 +13,7 @@ Jacob Woratzeck (Aquatic Excursions) </br>
 Chase and a spouse
 
 ## Location: 
-This is to plan a trip to Hawaii </br>
+Hawaii </br>
 ## Purpose: 
 Plan a honeymoon for a couple </br>
 ## Length: 
