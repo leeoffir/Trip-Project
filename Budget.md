@@ -13,7 +13,7 @@
 
 Put the exact day for each expenses.
 
-*ex) Day1 | Transportation | 500$(Hotel) // Day1 | Food | 200$(Dinner), 100$(Dessert)
+*ex)| Day1 | Transportation | 500$(Hotel) //| Day1 | Food | 200$(Dinner), 100$(Dessert)
 
 | Day | Expense Categories | Cost($) |
 | :-------- | :--------: | --------: |
