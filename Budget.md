@@ -17,5 +17,5 @@ Put the exact day for each expenses.
 
 | Day | Expense Categories | Cost($) |
 | :-------- | :--------: | --------: |
-|Day1|Tansportation|100$(Hotel)|
+|Day1|Tansportation|500$(Hotel)|
 |Day1|Food|200$(Dinner), 100$(Dessert)|
