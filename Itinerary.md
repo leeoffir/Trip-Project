@@ -4,7 +4,7 @@
 
 Flight: </br>
 March 24th, 7:25AM - 1:44PM From KC to Honolulu </br>
-Arrive (pick up and drive to airport in rental car </br>
+Arrive (pick up and drive to airport in rental car) </br>
 Relax around 3 for the rest of the day, walk around hotel area find good resturants</br>
 https://github.com/leeoffir/Trip-Project/blob/master/Flight%20Info.JPG
 
