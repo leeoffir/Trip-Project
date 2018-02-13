@@ -3,7 +3,7 @@
 ## Day 0:
 
 Flight: 
-March 24th, 7:25AM - 1:44PM From KC to Honolulu
+March 24th, 7:25AM - 1:44PM From KC to Honolulu </br>
 Arrive and Relax around 3 for the rest of the day. 
 
 ## Day 1:
