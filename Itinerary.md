@@ -34,8 +34,8 @@ Duration: 3 Hours</br>
 https://github.com/leeoffir/Trip-Project/blob/master/DiamondHead.png</br>
 Lunch</br>
 Luau: (included dinner) Leave at 5pm (germaines luau) </br>
-https://github.com/leeoffir/Trip-Project/blob/master/luau.png
 Duration: 3 Hours
+https://github.com/leeoffir/Trip-Project/blob/master/luau.png
 
 ## Day 5(March 29): 
 Shark Viewing: leave around 8:30am </br>
@@ -43,8 +43,8 @@ Duration: 2 hours</br>
 https://github.com/leeoffir/Trip-Project/blob/master/Shark.png</br>
 Lunch</br>
 Dinner</br>
-Sunset Cruise: Leave at 5pm
-Duration: 3 hours
+Sunset Cruise: Leave at 5pm</br>
+Duration: 3 hours</br>
 https://github.com/leeoffir/Trip-Project/blob/master/Sunset.png
 
 ## Day 6(March 30): 
