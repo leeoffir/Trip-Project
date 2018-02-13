@@ -17,7 +17,7 @@ Put the exact day for each expenses.
 
 | Day | Expense Categories | Cost($) |
 | :-------- | :--------: | --------: |
-|Day1|Tansportation|500$(Hotel)|
-|Day1|Food|200$(Dinner), 100$(Dessert)|
-|Day1|Aquatic|$198 (Surf Lessons)|
+|Day1~7|Tansportation|3041.76$(Flight)|
+|Day1~7|Tansportation|462$(Rent car, per 66$)|
+|Day1|Activity|$198 (Surf Lessons)|
 |Day5|Aquatic|$193.5 (Sunset Cruise)|
