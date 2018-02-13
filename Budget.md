@@ -19,3 +19,5 @@ Put the exact day for each expenses.
 | :-------- | :--------: | --------: |
 |Day1|Tansportation|500$(Hotel)|
 |Day1|Food|200$(Dinner), 100$(Dessert)|
+|Day1|Aquatic|$198 (Surf Lessons)|
+|Day5|Aquatic|$193.5 (Sunset Cruise)|
