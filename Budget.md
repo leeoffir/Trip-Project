@@ -17,6 +17,7 @@ Put the exact day for each expenses.
 
 | Day | Expense Categories | Cost($) |
 | :-------- | :--------: | --------: |
+|Day0|Transportation|$3,041.76 (flights, both)|
 |Day1|Tansportation|500$(Hotel)|
 |Day1|Food|100$(Lunch)(at airport)|
 |Day1|Food|200$(Dinner), 100$(Dessert)|
