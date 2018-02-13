@@ -2,7 +2,7 @@
 
 ## Day 0 (March 24):
 
-Flight: 
+Flight: </br>
 March 24th, 7:25AM - 1:44PM From KC to Honolulu </br>
 Arrive and Relax around 3 for the rest of the day. 
 
@@ -32,6 +32,10 @@ Duration: 2 hours. </br>
 Romantic Last dinner
 
 ## Day 7(March 31): 
+Romantic lunch</br>
+Packing</br>
+Flight: </br>
+March 31st, 11:05PM - 2:24PM From Honolulu to KC </br>
 
 ## Budget: 
 $10k 
