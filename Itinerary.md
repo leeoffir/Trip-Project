@@ -1,4 +1,4 @@
-# Trip-Project Itenerary 
+# Trip-Project Itinerary 
 
 ## Day 0:
 
