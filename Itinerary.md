@@ -4,16 +4,21 @@
 
 Flight: </br>
 March 24th, 7:25AM - 1:44PM From KC to Honolulu </br>
-Arrive and Relax around 3 for the rest of the day. 
+Arrive and Relax around 3 for the rest of the day, walk around hotel area find good resturants
 
 ## Day 1(March 25):
+Beach day: Lunch on the beach</br>
+Surfing: Leave at 3 </br>
+Duration: 2 hours</br>
+Dinner</br>
 
 ## Day 2(March 26):
 Oahu Tour of the Island: Leave at 7am </br>
 Duration: 8.5 hours, includes lunch </br>
 Dinner
 
-## Day 3(March 27): 
+## Day 3(March 27):
+
 
 ## Day 4(March 28):
 Diamond Head Tour: Leave at 11am </br>
@@ -23,6 +28,11 @@ Luau: (included dinner) Leave at 5pm (germaines luau) </br>
 Duration: 3 Hours
 
 ## Day 5(March 29): 
+
+Lunch</br>
+Dinner</br>
+Sunset Cruise: Leave at 5pm
+Duration: 3 hours
 
 ## Day 6(March 30): 
 
@@ -34,6 +44,7 @@ Romantic Last dinner
 ## Day 7(March 31): 
 Romantic lunch</br>
 Packing</br>
+Dinner</br>
 Flight: </br>
 March 31st, 11:05PM - 2:24PM From Honolulu to KC </br>
 
