@@ -34,7 +34,7 @@ Duration: 3 Hours</br>
 https://github.com/leeoffir/Trip-Project/blob/master/DiamondHead.png</br>
 Lunch</br>
 Luau: (included dinner) Leave at 5pm (germaines luau) </br>
-Duration: 3 Hours
+Duration: 3 Hours</br>
 https://github.com/leeoffir/Trip-Project/blob/master/luau.png
 
 ## Day 5(March 29): 
