@@ -19,12 +19,15 @@ Put the exact day for each expenses.
 | :-------- | :--------: | --------: |
 |Day1|Tansportation|500$(Hotel)|
 |Day1|Food|100$(Lunch)(at airport)|
-|Day1|Food|200$(Dinner at "House Without a key"), 100$(Dessert)|
-|Day2|Food|200$(Dinner at "Orchids"), 100$(Dessert)|
+|Day1|Food|200$(Dinner), 100$(Dessert)|
+|Day2|Food|200$(Dinner), 100$(Dessert)|
 |Day3|Food|200$(Lunch)|
-|Day3|Food|100$(Dinner at "Side Street Inn"), 50$(Dessert)|
+|Day3|Food|200$(Dinner), 100$(Dessert)|
 |Day4|Food|200$(Lunch)|
+|Day4|Food|200$(Dinner), 100$(Dessert)|
 |Day5|Food|200$(Lunch)|
+|Day5|Food|200$(Dinner)|
 |Day6|Food|200$(Lunch)|
+|Day6|Food|200$(Dinner)|
 |Day7|Food|100$(Lunch)(at airport)|
 
