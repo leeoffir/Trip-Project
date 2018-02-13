@@ -35,5 +35,10 @@ https://www.viator.com/tours/Oahu/South-Shore-Wreck-Dive/d672-11287P2 </br>
 7:30am - 10:30am </br>
 $150 per person
 
+## Waikiki Sunset Cruise
+https://www.viator.com/tours/Oahu/Waikiki-Sunset-Cruise/d672-2774SUNSET?subPageType=important-info</br>
+5:30pm - 8:00pm</br>
+$96.75 per person
+
 ## More
 https://www.viator.com/Oahu/d672-ttd
