@@ -4,7 +4,8 @@
 
 Flight: </br>
 March 24th, 7:25AM - 1:44PM From KC to Honolulu </br>
-Arrive and Relax around 3 for the rest of the day, walk around hotel area find good resturants
+Arrive (pick up and drive to airport in rental car </br>
+Relax around 3 for the rest of the day, walk around hotel area find good resturants
 
 ## Day 1(March 25):
 Beach day: Lunch on the beach</br>
