@@ -19,7 +19,10 @@ Duration: 8.5 hours, includes lunch </br>
 Dinner
 
 ## Day 3(March 27):
-
+Snorkel: Leave at 8am
+Duration: 3 Hours
+Lunch
+Dinner
 
 ## Day 4(March 28):
 Diamond Head Tour: Leave at 11am </br>
@@ -40,7 +43,7 @@ Duration: 3 hours
 Beach day: lunch on the beach </br>
 Horseback Riding:  (5:15) </br>
 Duration: 2 hours. </br>
-Romantic Last dinner
+Romantic Last dinner (Orchids, very nice resturant, about $230)
 
 ## Day 7(March 31): 
 Romantic lunch</br>
