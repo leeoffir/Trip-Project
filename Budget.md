@@ -26,8 +26,7 @@ Put the exact day for each expenses.
 |Day4|Food|200$(Lunch)|
 |Day4|Food|200$(Dinner), 100$(Dessert)|
 |Day5|Food|200$(Lunch)|
-|Day5|Food|200$(Dinner)|
+|Day5|Food|200$(Dinner), 100$(Dessert)|
 |Day6|Food|200$(Lunch)|
-|Day6|Food|200$(Dinner)|
+|Day6|Food|200$(Dinner), 100$(Dessert)|
 |Day7|Food|100$(Lunch)(at airport)|
-
