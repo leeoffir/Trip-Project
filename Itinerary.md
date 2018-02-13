@@ -19,7 +19,7 @@ Dinner
 Diamond Head Tour: Leave at 11am </br>
 Duration: 3 Hours</br>
 Lunch</br>
-Luau: (included dinner) Leave at 5pm
+Luau: (included dinner) Leave at 5pm (germaines luau) </br> 
 Duration: 3 Hours
 
 ## Day 5(March 29): 
