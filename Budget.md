@@ -18,7 +18,9 @@ Put the exact day for each expenses.
 | Day | Expense Categories | Cost($) |
 | :-------- | :--------: | --------: |
 |Day0|Transportation|$3,041.76 (flights, both)|
+|Day0|Tansportation|469$(Rent car, per 67$)|
 |Day1|Tansportation|500$(Hotel)|
+|Day1|Activity|$198 (Surf Lessons)|
 |Day1|Food|100$(Lunch)(at airport)|
 |Day1|Food|200$(Dinner), 100$(Dessert)|
 |Day2|Food|200$(Dinner), 100$(Dessert)|
@@ -28,6 +30,8 @@ Put the exact day for each expenses.
 |Day4|Food|200$(Dinner), 100$(Dessert)|
 |Day5|Food|200$(Lunch)|
 |Day5|Food|200$(Dinner), 100$(Dessert)|
+|Day5|Activity|$207.06 (Shark Dive)|
+|Day5|Activity|$193.5 (Sunset Cruise)|
 |Day6|Food|200$(Lunch)|
 |Day6|Food|300$(Dinner), 150$(Dessert)|
 |Day7|Food|200$(Lunch)|
