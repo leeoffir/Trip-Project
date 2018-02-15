@@ -1,4 +1,4 @@
-# Trip-Project
+# Trip Project
 Trip Project for Software Engineering
 
 ## Group Members: 
@@ -13,14 +13,20 @@ Jacob Woratzeck (Aquatic Excursions) </br>
 Chase and a spouse
 
 ## Location: 
-Hawaii </br>
+Oahu, Hawaii </br>
 ## Purpose: 
 Plan a honeymoon for a couple </br>
 ## Length: 
 March 24 - March 31 , 7 day trip </br>
 
 ## Budget: 
-$10k 
+$10,000</br>
+Finalized Budget: </br>
+https://github.com/leeoffir/Trip-Project/blob/master/Planning%20Documents/travel-budget.xlsx</br></br>
 
+Markdown Budget Plan:</br>
+https://github.com/leeoffir/Trip-Project/blob/master/Planning%20Documents/Budget.md
 
+## Itinerary
+https://github.com/leeoffir/Trip-Project/blob/master/Itinerary.md
 
