@@ -28,7 +28,7 @@ Have dinner in the area
 ## Day 3 (March 27):
 Snorkeling: 8:00am to 11:00am</br>
 Duration: 3 Hours</br>
-https://github.com/leeoffir/Trip-Project/blob/master/Snorkel.png<br>
+https://github.com/leeoffir/Trip-Project/blob/master/Snorkel.png<br></br>
 
 Have lunch in the area</br></br>
 
