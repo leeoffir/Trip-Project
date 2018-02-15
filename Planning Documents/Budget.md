@@ -12,6 +12,7 @@
 ### Expected Cost Info
 
 Put the exact day for each expenses.
+All Food expenses includes tip fee.
 
 *ex)| Day1 | Transportation | 500$(Hotel) //| Day1 | Food | 200$(Dinner), 100$(Dessert)
 
@@ -32,6 +33,7 @@ Put the exact day for each expenses.
 |Day4|Food|200$(Lunch)|
 |Day4|Activity| Diamond Head, $73.30|
 |Day4|Activity| Luau, $170| 
+|Day4|Food|200$(Dinner), 100$(Dessert)|
 |Day5|Food|200$(Lunch)|
 |Day5|Food|200$(Dinner), 100$(Dessert)|
 |Day5|Activity|$207.06 (Shark Dive)|
