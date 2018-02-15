@@ -21,7 +21,7 @@ All Food expenses includes tip fee.
 |Day0|Transportation|$3,041.76 (flights, both)|
 |Day0|Tansportation|469$(Rent car, 67$ per day)|
 |Day0|Housing|1050$(Hotel, 150$ per day)|
-|Day0|Food|200$(Dinner), 100$(Dessert)|
+|Day0|Food|100$(Dinner), 50$(Dessert)|
 |Day1|Tansportation|500$(Hotel)|
 |Day1|Activity|$198 (Surf Lessons)|
 |Day1|Food|100$(Lunch)(at airport)|
