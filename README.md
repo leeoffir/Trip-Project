@@ -20,7 +20,7 @@ Plan a honeymoon for a couple </br>
 March 24 - March 31 , 7 day trip </br>
 
 ## Budget: 
-$10,000</br>
+$10,000</br></br>
 Finalized Budget: </br>
 https://github.com/leeoffir/Trip-Project/blob/master/Planning%20Documents/travel-budget.xlsx</br></br>
 
