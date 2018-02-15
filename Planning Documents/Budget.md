@@ -26,6 +26,7 @@ All Food expenses includes tip fee.
 |Day1|Activity|$198 (Surf Lessons)|
 |Day1|Food|100$(Lunch)(at airport)|
 |Day1|Food|200$(Dinner), 100$(Dessert)|
+|Day2|Food|200$(Lunch)|
 |Day2|Food|200$(Dinner), 100$(Dessert)|
 |Day2|Activity| Oahu, $198.46|
 |Day3|Food|200$(Lunch)|
