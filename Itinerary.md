@@ -7,7 +7,9 @@ March 24th, 7:25AM - 1:44PM From KC to Honolulu </br>
 ![FlightInfo](https://github.com/leeoffir/Trip-Project/blob/master/Images/Flight%20Info.JPG)</br></br>
 
 Arrive in Honolulu (pick up rental car at airport and drive to hotel)</br>
-![CarRentalinfo](https://github.com/leeoffir/Trip-Project/blob/master/Images/Car%20Rental%20info.JPG)</br>
+![CarRentalinfo](https://github.com/leeoffir/Trip-Project/blob/master/Images/Car%20Rental%20info.JPG)</br></br>
+
+![HotelInfo](https://github.com/leeoffir/Trip-Project/blob/master/Images/4C841DE5-194A-4583-8447-418185723C75.png)</br></br>
 
 Relax around 3:00pm for the rest of the day, walk around hotel area, find good resturants, etc.
 
