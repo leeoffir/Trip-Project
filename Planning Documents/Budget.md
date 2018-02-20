@@ -29,13 +29,11 @@ All Food expenses includes tip fee.
 |Day2|Food|200$(Lunch)|
 |Day2|Food|200$(Dinner), 100$(Dessert)|
 |Day2|Activity| Oahu, $198.46|
-|Day3|Food|200$(Lunch)|
 |Day3|Activity| Snorkel, $280.48|
 |Day3|Food|200$(Dinner), 100$(Dessert)|
 |Day4|Food|200$(Lunch)|
 |Day4|Activity| Diamond Head, $73.30|
 |Day4|Activity| Luau, $170| 
-|Day4|Food|200$(Dinner), 100$(Dessert)|
 |Day5|Food|200$(Lunch)|
 |Day5|Food|200$(Dinner), 100$(Dessert)|
 |Day5|Activity|$207.06 (Shark Dive)|
