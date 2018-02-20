@@ -3,8 +3,8 @@
 ### Categories
 ~~~
 1. Transportation : The expected transportation expenses
-2. Housing : Any room charge for a trip
-3. Food : All food expenses during the trip. 
+2. Housing (+taxes) : Any room charge for a trip
+3. Food (+tips): All food expenses during the trip. 
 4. Activity : All activity fees during the trip
 5. Other : Other expenses (Be detail)
 ~~~
