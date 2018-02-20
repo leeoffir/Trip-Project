@@ -3,11 +3,11 @@ Trip Project for Software Engineering
 
 ## Group Members: 
 Chase Scott (Product Owner)(Housing/Food), </br>
-Lee Offir (Schedule), </br>
+Lee Offir (Itinerary), </br>
 Youngbin Ha (Budget), </br>
 Austin Parrish (Scrum Master), </br>
 Henry Heinze (Transportation), </br>
-Jacob Woratzeck (Aquatic Excursions) </br>
+Jacob Woratzeck (Aquatic Excursions/Itinerary) </br>
 
 ## Who Is Going
 Chase and a spouse
